@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #1d1d1d;
+    overflow: hidden;
+}
+
+.pacman-container {
+    position: relative;
+}
+
+.pacman {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border-radius: 50%;
+    transform: rotate(45deg);
+    animation: eat 0.5s infinite linear;
+}
+
+.pacman-top, .pacman-bottom {
+    background: #1d1d1d;
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.pacman-top {
+    transform: rotate(180deg);
+}
+
+.pacman-bottom {
+    top: 50%;
+}

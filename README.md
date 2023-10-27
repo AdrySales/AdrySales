@@ -1,4 +1,4 @@
-<img src="https://AdrySales.github.io/your-commit-animation.html" alt="Pac-Man Animation">
+<img src="https://AdrySales.github.io/index.html" alt="Pac-Man Animation">
 
 # Olá, mundo! 👋
 

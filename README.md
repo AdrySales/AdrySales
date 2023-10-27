@@ -1,4 +1,4 @@
-<img src="https://AdrySales.github.io/index.html" alt="Pac-Man Animation">
+<img src="https://github.com/AdrySales/AdrySales/blob/main/index.html" alt="Pac-Man Animation">
 
 # Olá, mundo! 👋
 
